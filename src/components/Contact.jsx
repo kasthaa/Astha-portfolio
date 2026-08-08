@@ -38,12 +38,12 @@
           </p>
 
           <div className="contact-links">
-            <a href="mailto:your-email@example.com">
+            <a href="mailto: kastha664@gmail.com">
               Email
             </a>
 
             <a
-              href="https://github.com/your-github"
+              href=" https://github.com/kasthaa"
               target="_blank"
               rel="noreferrer"
             >
@@ -51,7 +51,7 @@
             </a>
 
             <a
-              href="https://linkedin.com/in/your-linkedin"
+              href=" https://www.linkedin.com/in/astha-kumari-324350298"
               target="_blank"
               rel="noreferrer"
             >
