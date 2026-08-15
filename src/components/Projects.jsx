@@ -5,18 +5,18 @@
       type: "AI / Full Stack",
       description:
         "AI-powered resume analyzer that evaluates ATS compatibility, matches resumes with job descriptions, generates intelligent feedback, rewrites resume content, and creates interview questions.",
-      tech: "Next.js • FastAPI • Python • OpenRouter • Supabase",
+      tech: "Next.js • FastAPI • OpenRouter • Supabase",
       github: "https://github.com/kasthaa/ResumeIQ-AI.git",
       demo: "https://resume-iq-ai-dzcw.vercel.app/",
     },
     {
-      title: "EmergencyAid",
+      title: "EmergencyAid-MERN",
       type: "Full Stack",
       description:
         "Emergency assistance platform that allows users to submit emergency requests and discover nearby hospitals, clinics, blood banks, and other essential resources.",
-      tech: "Next.js • React • TypeScript • Supabase",
-      github: "git remote add origin https://github.com/kasthaa/emergencyAid.git",
-      demo: "https://emergency-540c9adpg-astha13.vercel.app/",
+      tech:  "React.js · JavaScript · Node.js · Express.js · MongoDB · Google Maps API · REST API · Git · GitHub · Vercel",
+      github: "git remote add origin  https://github.com/kasthaa/emergencyaid-mern.git",
+      demo: "https://emergencyaid-mern-obshyicwt-astha13.vercel.app/",
     },
   ];
 
