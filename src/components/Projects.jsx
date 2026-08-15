@@ -15,7 +15,7 @@
       description:
         "Emergency assistance platform that allows users to submit emergency requests and discover nearby hospitals, clinics, blood banks, and other essential resources.",
       tech:  "React.js · JavaScript · Node.js · Express.js · MongoDB · Google Maps API · REST API · Git · GitHub · Vercel",
-      github: "git remote add origin  https://github.com/kasthaa/emergencyaid-mern.git",
+      github:   "https://github.com/kasthaa/emergencyaid-mern.git",
       demo: "https://emergencyaid-mern-obshyicwt-astha13.vercel.app/",
     },
   ];
