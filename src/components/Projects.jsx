@@ -26,7 +26,7 @@
   tech:
     "React.js · JavaScript · Node.js · Express.js · MongoDB · REST API · Git · GitHub · Vercel",
   github: "https://github.com/kasthaa/CampusReuse",
-  demo: "https://campus-reuse-w7ts.vercel.app/",
+  demo: " https://campus-reuse-w7ts-git-main-astha13.vercel.app/",
 },
   ];
 
