@@ -18,6 +18,16 @@
       github:   "https://github.com/kasthaa/emergencyaid-mern",
       demo: "https://emergencyaid-mern-obshyicwt-astha13.vercel.app/",
     },
+       {
+  title: "CampusReuse",
+  type: "Full Stack",
+  description:
+    "Campus resource sharing platform that allows students to list, discover, and exchange academic resources within their campus community.",
+  tech:
+    "React.js · JavaScript · Node.js · Express.js · MongoDB · REST API · Git · GitHub · Vercel",
+  github: "https://github.com/kasthaa/CampusReuse",
+  demo: "https://campus-reuse-w7ts.vercel.app/",
+},
   ];
 
   return (
